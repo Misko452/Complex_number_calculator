@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C4FF5C3-4AFD-4C85-A3FC-B129AA683C37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Komplexni_cisla</RootNamespace>
+    <AssemblyName>Komplexni cisla</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Absoutni_hodnota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Absoutni_hodnota.Designer.cs">
+      <DependentUpon>Absoutni_hodnota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="goniometrie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="goniometrie.Designer.cs">
+      <DependentUpon>goniometrie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="komplex_sdruzeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="komplex_sdruzeni.Designer.cs">
+      <DependentUpon>komplex_sdruzeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nasobeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nasobeni.Designer.cs">
+      <DependentUpon>Nasobeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odcitani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odcitani.Designer.cs">
+      <DependentUpon>Odcitani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scitani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scitani.Designer.cs">
+      <DependentUpon>Scitani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vypocty.cs" />
+    <EmbeddedResource Include="Absoutni_hodnota.resx">
+      <DependentUpon>Absoutni_hodnota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="goniometrie.resx">
+      <DependentUpon>goniometrie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="komplex_sdruzeni.resx">
+      <DependentUpon>komplex_sdruzeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nasobeni.resx">
+      <DependentUpon>Nasobeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odcitani.resx">
+      <DependentUpon>Odcitani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Scitani.resx">
+      <DependentUpon>Scitani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

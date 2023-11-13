@@ -1,0 +1,28 @@
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.exe.config
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.exe
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.pdb
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csprojResolveAssemblyReference.cache
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Form1.resources
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Properties.Resources.resources
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Scitani.resources
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csproj.GenerateResource.Cache
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.exe
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.pdb
+c:\users\zdenekmic\documents\visual studio 2013\Projects\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Odcitani.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.exe.config
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.exe
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\bin\Debug\Komplexni cisla.pdb
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csproj.AssemblyReference.cache
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csproj.SuggestedBindingRedirects.cache
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Form1.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Odcitani.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Properties.Resources.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Scitani.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csproj.GenerateResource.cache
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.csproj.CoreCompileInputs.cache
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.exe
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni cisla.pdb
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Nasobeni.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.Absoutni_hodnota.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.komplex_sdruzeni.resources
+C:\Users\madmi\lmao\Komplexni cisla\Komplexni cisla\obj\Debug\Komplexni_cisla.goniometrie.resources
